@@ -1,0 +1,163 @@
+2025-05-06 08:52:34,029 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 08:52:34,124 [main] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 08:52:34,405 [main] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 08:52:34,410 [main] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 08:52:35,667 [main] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 08:52:35,669 [main] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 15:41:11,726 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 15:41:11,913 [main] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 15:41:12,412 [main] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 15:41:12,419 [main] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 15:41:14,058 [main] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 15:41:14,062 [main] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 15:45:46,738 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 15:45:46,870 [main] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 15:45:47,424 [main] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 15:45:47,430 [main] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 15:45:49,119 [main] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 15:45:49,121 [main] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 15:46:01,293 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 15:46:01,414 [main] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 15:46:01,930 [main] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 15:46:01,931 [main] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 15:46:03,495 [main] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 15:46:03,495 [main] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 15:46:40,482 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 15:46:40,592 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 15:46:40,644 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 15:46:40,713 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 15:46:41,180 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 15:46:41,193 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 15:46:41,229 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 15:46:41,230 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 15:46:42,796 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 15:46:42,798 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 15:46:43,017 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 15:49:00,996 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 15:49:01,077 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 15:49:01,173 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 15:49:01,224 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 15:49:01,693 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 15:49:01,705 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 15:49:01,745 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 15:49:01,746 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 15:49:03,540 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 15:49:03,542 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 15:49:03,744 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 15:49:03,745 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 16:11:14,255 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 16:11:14,636 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 16:11:15,109 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 16:11:15,116 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 16:11:16,641 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 16:11:16,644 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 16:11:17,579 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-06 16:11:17,761 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-06 16:11:18,273 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-06 16:11:18,276 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-06 16:11:19,924 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-06 16:11:19,924 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-06 22:41:06,935 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-06 22:42:19,846 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-06 22:42:21,313 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-07 22:21:58,163 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-07 22:21:59,697 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-07 23:31:07,915 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:31:19,867 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:31:30,018 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:31:40,191 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:31:50,308 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:33:34,520 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:33:45,734 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:33:55,926 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:34:06,141 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:34:16,335 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:38:29,798 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:38:31,525 [main] INFO  testCases.VerifyLoginDataDDTTest - ***** Veification Completed *******
+2025-05-07 23:38:31,531 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:38:42,526 [main] INFO  testCases.VerifyLoginDataDDTTest - ***** Veification Completed *******
+2025-05-07 23:38:42,537 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:38:53,708 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:39:04,471 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:39:15,921 [main] INFO  testCases.VerifyLoginDataDDTTest - ***** Veification Completed *******
+2025-05-07 23:40:16,681 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:40:18,486 [main] INFO  testCases.VerifyLoginDataDDTTest - ***** Veification Completed *******
+2025-05-07 23:40:18,495 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:40:29,010 [main] INFO  testCases.VerifyLoginDataDDTTest - ***** Veification Completed *******
+2025-05-07 23:40:29,022 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:40:39,859 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:40:52,073 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-07 23:41:03,583 [main] INFO  testCases.VerifyLoginDataDDTTest - ***** Veification Completed *******
+2025-05-13 23:07:14,271 [main] INFO  testCases.VerifyLoginDataDDTTest - *********** Testin DDT Started *************
+2025-05-13 23:07:15,803 [main] INFO  testCases.VerifyLoginDataDDTTest - ***** Veification Completed *******
+2025-05-13 23:08:45,510 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-13 23:08:46,969 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-13 23:12:35,075 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-13 23:12:36,545 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-13 23:15:38,042 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-13 23:15:39,882 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-13 23:18:24,628 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-13 23:18:26,025 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-13 23:21:12,850 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-13 23:21:14,291 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-13 23:24:27,930 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-13 23:24:29,404 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-13 23:28:19,859 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-13 23:28:21,311 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-15 22:12:02,262 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-15 22:12:02,347 [main] INFO  testCases.AccountRegistrationTest - clicked on Account
+2025-05-15 22:12:02,636 [main] INFO  testCases.AccountRegistrationTest - clicked on Registration
+2025-05-15 22:12:02,642 [main] INFO  testCases.AccountRegistrationTest - Entering the inputs
+2025-05-15 22:12:03,825 [main] INFO  testCases.AccountRegistrationTest - validating the message
+2025-05-15 22:12:03,826 [main] INFO  testCases.AccountRegistrationTest - *********  Testing Finished  ********
+2025-05-15 22:12:05,784 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-15 22:12:07,843 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-15 22:12:08,774 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-15 22:12:08,775 [main] ERROR testCases.AccountRegistrationTest - Error Messages
+2025-05-15 22:12:08,784 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-15 22:13:29,338 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-15 22:13:29,357 [main] ERROR testCases.AccountRegistrationTest - Error Messages
+2025-05-15 22:13:29,372 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-15 22:13:30,245 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-15 22:13:30,246 [main] ERROR testCases.AccountRegistrationTest - Error Messages
+2025-05-15 22:13:30,253 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 11:50:02,852 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-17 11:50:02,875 [main] ERROR testCases.AccountRegistrationTest - Error Messages
+2025-05-17 11:50:02,893 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 11:50:03,910 [main] INFO  testCases.AccountRegistrationTest - ***** Starting Test *******
+2025-05-17 11:50:03,911 [main] ERROR testCases.AccountRegistrationTest - Error Messages
+2025-05-17 11:50:03,918 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:15:02,635 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:15:03,657 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:16:30,234 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:16:31,142 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:17:15,566 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:17:16,432 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:17:38,263 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:17:39,108 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:18:14,450 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:18:15,297 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:20:03,713 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:20:04,736 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:21:02,705 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-17 12:21:03,611 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-18 08:48:31,087 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-18 08:48:37,406 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-18 08:55:09,076 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-18 08:55:15,139 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-18 08:58:40,111 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-18 08:58:42,294 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-18 08:58:49,777 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-18 08:58:51,653 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-19 20:25:29,562 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-19 20:25:31,703 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-19 20:25:41,320 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-19 20:25:43,554 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-19 20:28:03,233 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-19 20:28:05,078 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-19 20:28:14,433 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-19 20:28:16,491 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-19 20:36:21,106 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-19 20:36:23,006 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
+2025-05-19 20:36:30,986 [main] INFO  testCases.LoginTest - ******* Verify Loogin Test **************
+2025-05-19 20:36:32,838 [main] INFO  testCases.LoginTest -  ****** Login Test Completed *******
